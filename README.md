@@ -9,3 +9,6 @@ En el archivo test.py se debe cambiar:
 - En la linea 22, se debe reemplazar ip_broker por la ip correcta del broker al que nos vamos a conectar.
 
 En ambos casos deben ser los mismos que los que utilizamos en el sketch del ESP.
+
+UPDATE 19-12-2017
+Se actualizo el diagrama, en lugar de utilizar un regulador lineal, se utiliza un LDO. El del diagrama es un HT7333-A.
